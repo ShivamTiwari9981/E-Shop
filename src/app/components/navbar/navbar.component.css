@@ -1,0 +1,22 @@
+
+#navbarNav{
+    margin-right: 2rem;
+}
+.navbar-brand{
+    margin-left: 2rem;
+}
+.navbar .navbar-nav .nav-item .nav-link
+{color:#fff;
+    padding: 0.5 rem 1rem;
+    text-align: center;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover,
+.navbar .navbar-nav .nav-item .nav-link.active{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red
+}
+.navbar .navbar-brand{
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
